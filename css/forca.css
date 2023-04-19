@@ -109,6 +109,10 @@ body{
 #recarregar{
     bottom: 80px;
     right: 5px;
+    
+}
+#recarregar i, #jogarNovamente{
+    margin-top: 1em;
 }
 
 #jogarAutomatico{
